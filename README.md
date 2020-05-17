@@ -4,4 +4,4 @@ View the [workflow file](./.github/workflows/ci.yml) and the [published website]
 
 Read the details in [my blog](http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html) (in Chinese).
 
-从阮一峰的demo导入
+来源https://ruanyf.github.io/github-actions-demo
